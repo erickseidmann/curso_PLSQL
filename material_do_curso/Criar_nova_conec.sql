@@ -1,8 +1,6 @@
 --
 -- Curso - Oracle PL/SQL Especialista: do Básico ao Avançado
 --
--- Autor - Emílio Scudero
---
 -- Seção 03 - PL/SQL Fundamentos - Instalação e Configuração das conexões no Oracle SQL Developer
 --
 -- Aula 3 - Criando o Usuário HR
